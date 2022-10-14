@@ -12,8 +12,6 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
 
 <hr/>
 
-## ⚡ Tech Stack
-
 ### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -70,8 +68,6 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 <hr/>
-
-## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />

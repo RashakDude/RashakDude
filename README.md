@@ -2,13 +2,12 @@
          alt="Waving hand animated gif"
          height="35"
          width="35" />, I'm Rajat Agrawal </h1>
-<h3 align="center">
-	
-![coding-guy](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
+![coding-guy](https://github.com/RashakDude/RashakDude/blob/main/ezgif.com-resize.gif?raw=true)
+
+<h3 align="center">
 Full Stack Web Developer | Android Developer | Robotics Enthusiast
 </h3>
-<br>
 
 <hr/>
 

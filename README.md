@@ -73,3 +73,7 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RashakDude&hide_border=true&theme=radical" />
   <img alt="languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashakDude&layout=compact&hide_border=true&theme=radical" />
 </p>
+
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=RashakDude&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RashakDude" />
+</p>

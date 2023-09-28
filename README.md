@@ -69,7 +69,7 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
 <hr/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />
+  <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />
   <img alt="languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashakDude&layout=compact&hide_border=true&theme=radical" />
 </p>
 

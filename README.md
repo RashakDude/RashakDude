@@ -69,12 +69,11 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
 <hr/>
 
 <p align="center">
-  <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />
-  <img alt="languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashakDude&layout=compact&hide_border=true&theme=radical" />
-  <img alt="topics-over-time" width="46%" src="https://stats.quine.sh/RashakDude/topics-over-time?theme=dark" />
-  <img alt="languages-over-time" width="46%" src="https://stats.quine.sh/RashakDude/languages-over-time?theme=dark" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://wakatime.com/share/@5c28c9de-06c8-4626-87d3-ceb2eddee295/79234ad9-b068-4d89-b277-3eaf3a0aeb3e.svg" width="60%" />
 </p>
 
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=RashakDude&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RashakDude" />
+  <img src="https://wakatime.com/badge/user/5c28c9de-06c8-4626-87d3-ceb2eddee295.svg?style=for-the-badge" alt="wakatime" />
 </p>

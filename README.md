@@ -69,9 +69,9 @@ Full Stack Web Developer | Android Developer | Robotics Enthusiast
 <hr/>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RashakDude&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://wakatime.com/share/@5c28c9de-06c8-4626-87d3-ceb2eddee295/79234ad9-b068-4d89-b277-3eaf3a0aeb3e.svg" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RashakDude&show_icons=true&hide_border=true&theme=radical" width = "50%"/>
+  <img src="https://wakatime.com/share/@5c28c9de-06c8-4626-87d3-ceb2eddee295/79234ad9-b068-4d89-b277-3eaf3a0aeb3e.svg" width = "60%"/>
+  <img src="https://api.daily.dev/devcards/v2/zYH6F1i7TzNN304CL3CpF.png?r=h8q&type=default" alt="Rajat Agrawal's Dev Card" width = "40%"/>
 </p>
 
 <p align = "center">
